@@ -1,1 +1,3 @@
 # day-26
+
+started watching 100 days of code 2022 by maxy schwarzy ... will keep contiuniung watching his videos for the rest of the week ....
